@@ -43,6 +43,8 @@ export type LandingContent = {
     description: string;
     primaryCta: string;
     secondaryCta: string;
+    imageAlt: string;
+    imageCredit?: string;
   };
   trust: {
     title: string;

@@ -39,6 +39,8 @@ export const landingContentByLocale: Record<Locale, LandingContent> = {
         "We verify renters and apartments, coordinate repair actions, and monitor utility payments on a flexible cadence agreed with both parties. Landlords gain visibility while renters get consistent, fair support.",
       primaryCta: "Reach Out",
       secondaryCta: "Book a quick call",
+      imageAlt: "Small apartment building under a bright sky with green trees.",
+      imageCredit: "Original illustration generated for Property Guardian.",
     },
     trust: {
       title: "A neutral operating partner across the full tenancy",
@@ -220,6 +222,8 @@ export const landingContentByLocale: Record<Locale, LandingContent> = {
         "Verificam chiriasii si apartamentele, coordonam actiunile de reparatie si monitorizam plata utilitatilor pe o cadenta flexibila agreata de ambele parti. Proprietarii castiga vizibilitate, iar chiriasii primesc suport consecvent si echitabil.",
       primaryCta: "Contacteaza-ne",
       secondaryCta: "Programeaza un apel scurt",
+      imageAlt: "Cladire mica de apartamente sub un cer luminos, cu copaci verzi.",
+      imageCredit: "Ilustratie originala generata pentru Property Guardian.",
     },
     trust: {
       title: "Un partener operational neutru pe toata durata inchirierii",
